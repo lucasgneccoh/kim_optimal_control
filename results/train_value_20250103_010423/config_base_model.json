@@ -1,0 +1,1 @@
+{"dim_S": 1, "T": 1.0, "n_period": 10, "min_moneyness": 0.5, "max_moneyness": 1.5, "min_rate": 0.0, "max_rate": 0.1, "min_coupon": 0.0, "max_coupon": 0.05, "mu_S": 0.015, "sigma_S": 0.2, "a": 1.0, "kappa": 0.03, "sigma_r": 0.01, "initial_cash": 10.0, "min_liab": 0.0, "max_liab": 0.8}

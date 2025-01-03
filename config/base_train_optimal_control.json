@@ -1,0 +1,13 @@
+{
+    "n_hidden_layers": 3,
+    "n_neuron": 25,
+    "n_sample": 10000,
+    "n_epoch": 1000,
+    "upper_bound": 100000, 
+    "lower_bound": -100000,
+    "k": 100,
+    "lr": 0.0001,
+    "milestones": [100, 200, 300, 500],
+    "gamma": 0.5,
+    "checkpoint_path": null
+}

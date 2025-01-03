@@ -1,0 +1,14 @@
+{
+    "n_hidden_layers": 5,
+    "n_neuron": 100,
+    "n_sample": 100000,
+    "n_sample_val": 10000,
+    "n_epoch": 1000,
+    "batch_size": 8192,
+    "lr": 0.01,
+    "milestones": [300, 600, 800],
+    "weight_decay": 0.0004,
+    "gamma": 0.5,
+    "u_nn_checkpoint": "./results/train_u_20250102_180410/checkpoint_final.pth",
+    "checkpoint_path": "./results/train_value_20250102_181855/checkpoints/checkpoint_epoch_1000.pth"
+}
